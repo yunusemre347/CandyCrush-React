@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CandyCrush-React/static/css/main.88ea0b69.css",
+    "main.js": "/CandyCrush-React/static/js/main.c006f214.js",
+    "index.html": "/CandyCrush-React/index.html",
+    "main.88ea0b69.css.map": "/CandyCrush-React/static/css/main.88ea0b69.css.map",
+    "main.c006f214.js.map": "/CandyCrush-React/static/js/main.c006f214.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ea0b69.css",
+    "static/js/main.c006f214.js"
+  ]
+}
