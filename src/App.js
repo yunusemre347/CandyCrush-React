@@ -205,13 +205,12 @@ const App=() => {
         ))}
       </div>
       <div className="notes"> <p>
-          Notes: This project belongs to Ania Kubow. I only made React
-          practice by rewriting the code. <br /> I had issues practicing this code. I fixed them but i dont remember what the issues were. Sorry about that. 
+    
          <br/>
           yunusemreyilmaz347@gmail.com
           <br />
           <br />
-          &ensp; Yea im too lazy to finish scoreboard
+
         </p></div>
     </div>
   );
